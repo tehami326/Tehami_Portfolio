@@ -35,14 +35,15 @@ import remote from "./assets/company_logo/remote.png";
 import College_logo from "./assets/education_logo/College_logo.png";
 import School_logo from "./assets/education_logo/School_logo.png";
 
-import crowdFunding from "./assets/work_logo/crowdfunding.png";
-import prepVerseIq from "./assets/work_logo/prepverse_iq.png";
-import memecoinLaunchpad from "./assets/work_logo/memecoin_launchpad.png";
-import supplyChain from "./assets/work_logo/supply_chain.png";
-import ecommerceLogo from "./assets/work_logo/ecommerce.png";
-import quizProject from "./assets/work_logo/quizproject.png";
-import registerLogo from "./assets/work_logo/register.png";
-import watchStore from "./assets/work_logo/watch_store.png";
+import crowdFunding from "../assets/work_logo/crowdfunding.png";
+import prepVerseIq from "../assets/work_logo/prepverse_iq.png";
+import memecoinLaunchpad from "../assets/work_logo/memecoin_launchpad.png";
+import supplyChain from "../assets/work_logo/supply_chain.png";
+import ecommerceLogo from "../assets/work_logo/ecommerce.png";
+import quizProject from "../assets/work_logo/quizproject.png";
+import registerLogo from "../assets/work_logo/register.png";
+import watchStore from "../assets/work_logo/watch_store.png";
+
 
 
 
