@@ -37,7 +37,7 @@ import School_logo from "./assets/education_logo/School_logo.png";
 
 
 import crowdFunding from "./assets/work_logo/crowdfunding.png";
-import prepVerseIq from "./assets/work_logo/prepverse_lq.png";
+import prepVerseIq from "./assets/work_logo/prepverse_Iq.png";
 import memecoinLaunchpad from "./assets/work_logo/memecoin_launchpad.png";
 import supplyChain from "./assets/work_logo/supply_chain.png";
 import ecommerceLogo from "./assets/work_logo/ecommerce.png";
