@@ -45,6 +45,7 @@ import registerLogo from "./assets/work_logo/register.png";
 import watchStore from "./assets/work_logo/watch_store.png";
 
 
+
 export const SkillsInfo = [
     {
         title: 'Frontend',
